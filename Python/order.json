@@ -1,0 +1,22 @@
+{
+  "order": [
+    {
+      "order_id": 45,
+      "customer_name": "John",
+      "items": [
+        {
+          "product": "Coffee",
+          "quantity": 2
+        },
+        {
+          "product": "Tea",
+          "quantity": 4
+        },
+        {
+          "product": "Milk",
+          "quantity": 3
+        }
+      ]
+    }
+  ]
+}
